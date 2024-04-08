@@ -1,3 +1,5 @@
+![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/10307.jpg)
+<h1 align="center">Hi 👋, I'm Oğuzhan GÜNDOĞAR</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oğuzhan gündoğar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuzhan gündoğar" height="30" width="40" /></a>
