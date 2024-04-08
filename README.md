@@ -1,4 +1,3 @@
-![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/10307.jpg)
 <h1 align="center">Hi 👋, I'm Oğuzhan GÜNDOĞAR</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
